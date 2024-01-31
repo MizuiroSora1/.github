@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+We are a group of experienced front-end engineers. We are proficient in using HTML, CSS, JS, Vue.js, React, Node.js for engineering development. We will share some open source projects here. If you have a project that requires outsourcing, you can contact us through the contact information below.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact Us 🙋‍♀️
+[Telegram](https://github.com)
